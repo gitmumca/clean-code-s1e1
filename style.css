@@ -19,7 +19,8 @@ body {
 
 @media (max-width: 768px) {
 
-  .page-title { text-align: center;
+  .page-title { 
+    text-align: center;
   }
 
 }
